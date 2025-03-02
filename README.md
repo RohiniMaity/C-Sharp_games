@@ -19,3 +19,4 @@ This is a simple C# console-based application that provides users with a menu to
 1. Clone this repository:  
    ```bash
    git clone https://github.com/RohiniMaity/C-Sharp_games.git
+2. Run Program.cs
